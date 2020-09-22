@@ -1,4 +1,4 @@
-描述：vue项目模板，项目中集成vue-router、vuex、axios、less等
+描述：vue项目模板，项目中集成vue-router、vuex、axios、less、class、跨域等
 
 # vue-template-project
 
