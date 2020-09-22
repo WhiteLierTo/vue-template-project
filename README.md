@@ -1,3 +1,5 @@
+描述：vue项目模板，项目中集成vue-router、vuex、axios、less等
+
 # vue-template-project
 
 ## Project setup
